@@ -5,8 +5,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/M-o-h-a-n-S-i-n-g-h)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohan.singh1385664@gmail.com)
 
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
 - 🌱 I’m currently learning : **NextJs and Object oriented Javascript**
 
 - 👯 I’m looking to collaborate on : **Web technologies**
@@ -19,9 +17,6 @@
 
 
 Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
-
-<!--<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
-
 
 #### 🌱 Things I am currently working on: 
 - **(Rahmania)** => {  An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:  }
