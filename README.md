@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This is Mohan Singh!
+## Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/M-o-h-a-n-S-i-n-g-h)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohan.singh1385664@gmail.com)
@@ -14,8 +14,6 @@
 - 💬 Ask me about : **Full stack web development & Programming related stuff** (I'll try my best !!)
 
 - 😄 Pronouns : **He / His Him**
-
-## Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
