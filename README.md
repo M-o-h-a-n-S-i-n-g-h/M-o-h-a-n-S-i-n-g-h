@@ -19,7 +19,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/M-o-h-a-n-S-i-n-g-h/M-o-h-a-n-S-i-n-g-h/blob/main/Cover-Image.jpg" width="50%" height="auto" />
 
 <!--<img align="right" alt="img" src="https://drive.google.com/file/d/1-YP_uCj8fPJsBJSpfKB304fFtFttJ9Zu/view?usp=sharing" width="50%" height="auto" /> -->
 
