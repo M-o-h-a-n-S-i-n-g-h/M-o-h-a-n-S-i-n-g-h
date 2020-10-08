@@ -15,20 +15,20 @@
 
 - 😄 Pronouns : **He / His Him**
 
-Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
+#### Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-#### 🌱 Things I am currently working on: 
+### 🌱 Things I am currently working on: 
 - **(Rahmania)** => {  An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:  }
 
-#### :muscle: Things I am challenging myself with:
+### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4-5 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from college
 
-#### :computer: Programming languages and tools: 
+### :computer: Programming languages and tools: 
 <p>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
