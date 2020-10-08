@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on : **Web technologies**
 
-- 🤔 I’m looking for help with : **Microservices in NodeJs & Javascript**
+- 🤔 I’m looking for help with : **Microservices in NodeJs & In Writing Efficient Javascript**
 
 - 💬 Ask me about : **Full stack web development & Programming related stuff** (I'll try my best !!)
 
