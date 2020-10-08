@@ -26,7 +26,7 @@ Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement a
 - Waking up earlier to make good use of the day
 - Coding at least 4-5 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some education apart from college
 
 #### :computer: Programming languages and tools: 
 <p>
