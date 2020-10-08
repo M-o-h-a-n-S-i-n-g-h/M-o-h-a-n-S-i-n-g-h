@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**M-o-h-a-n-S-i-n-g-h/M-o-h-a-n-S-i-n-g-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is Mohan Singh!
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/M-o-h-a-n-S-i-n-g-h)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohan.singh1385664@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+- 🌱 I’m currently learning : **NextJs and Object oriented Javascript**
+
+- 👯 I’m looking to collaborate on : **Web technologies**
+
+- 🤔 I’m looking for help with : **Microservices in NodeJs & Javascript**
+
+- 💬 Ask me about : **Full stack web development & Programming related stuff** (I'll try my best !!)
+
+- 😄 Pronouns : **He / His Him**
+
+
+Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
+
+<!--<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
+
+
+#### 🌱 Things I am currently working on: 
+- **(Rahmania)** => {  An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:  }
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4-5 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+#### :computer: Programming languages and tools: 
+<p>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
