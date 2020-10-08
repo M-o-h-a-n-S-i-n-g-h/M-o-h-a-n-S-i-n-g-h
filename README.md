@@ -15,8 +15,9 @@
 
 - 😄 Pronouns : **He / His Him**
 
-
 Welcome to my Github page! I am Mohan Singh, and I love doing Web Developement and Programming!  
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true" />
 
 #### 🌱 Things I am currently working on: 
 - **(Rahmania)** => {  An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:  }
