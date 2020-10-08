@@ -24,7 +24,7 @@
 <!--<img align="right" alt="img" src="https://drive.google.com/file/d/1-YP_uCj8fPJsBJSpfKB304fFtFttJ9Zu/view?usp=sharing" width="50%" height="auto" /> -->
 
 ### 🌱 Things I am currently working on: 
-- **(Rahmania)** => {  An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:  }
+- **(Rahmania)** =>   **An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:**  
 
 ### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
