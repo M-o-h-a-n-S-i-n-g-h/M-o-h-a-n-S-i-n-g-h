@@ -18,7 +18,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=M-o-h-a-n-S-i-n-g-h&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 <img align="right" alt="img" src="https://github.com/M-o-h-a-n-S-i-n-g-h/M-o-h-a-n-S-i-n-g-h/blob/main/Cover-Image.jpg" width="50%" height="auto" />
-(https://github-readme-stats.vercel.app/api/top-langs/?username=M-o-h-a-n-S-i-n-g-h)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 🌱 Things I am currently working on: 
 - **(Rahmania)** =>   **An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:**  
