@@ -20,7 +20,7 @@
 <img align="right" alt="img" src="https://github.com/M-o-h-a-n-S-i-n-g-h/M-o-h-a-n-S-i-n-g-h/blob/main/Cover-Image.jpg" width="50%" height="auto" />
 
 ### 🌱 Things I am currently working on: 
-- **(Rahmania)** =>   **An upcoming website for A.R.Rahman Fans (:heart: *Progressing with Love*) :heart:**  
+Thinking on  
 
 ### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
