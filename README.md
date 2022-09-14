@@ -5,11 +5,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/M-o-h-a-n-S-i-n-g-h)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohan.singh1385664@gmail.com)
 
-- 🌱 I’m currently learning : **NextJs and Object oriented Javascript**
+- 🌱 I’m currently learning : **NextJs**
 
 - 👯 I’m looking to collaborate on : **Web technologies**
 
-- 🤔 I’m looking for help with : **Microservices in NodeJs & In Writing Efficient Javascript**
+- 🤔 I’m looking for help with : **Writing quality code**
 
 - 💬 Ask me about : **Full stack web development & Programming related stuff** (I'll try my best !!)
 
