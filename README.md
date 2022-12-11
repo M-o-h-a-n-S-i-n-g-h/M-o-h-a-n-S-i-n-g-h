@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/M-o-h-a-n-S-i-n-g-h)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohan.singh1385664@gmail.com)
 
-- 🌱 I’m currently learning : **NextJs**
+- 🌱 I’m currently learning : **Remix run**
 
 - 👯 I’m looking to collaborate on : **Web technologies**
 
