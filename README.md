@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on : **Web technologies**
 
-- 🤔 I’m looking for help with : **Writing quality code**
-
 - 💬 Ask me about : **Full stack web development & Programming related stuff** (I'll try my best !!)
 
 - 😄 Pronouns : **He / His / Him**
